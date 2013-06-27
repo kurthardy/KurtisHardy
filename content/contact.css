@@ -1,0 +1,12 @@
+input {
+    padding: 5px;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+
+}
+
+textarea {
+    height: 120px;
+    padding: 5px;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+    resize: none;
+}
